@@ -11,4 +11,5 @@ sleep 120
 curl localhost:5000
 curl localhost:5000/actuator/prometheus
 
-
+sudo wget https://raw.githubusercontent.com/Jaibw/spring-boot-prometheus/master/prometheus.yml -O /etc/prometheus/prometheus.yml
+sudo service prometheus restart 
