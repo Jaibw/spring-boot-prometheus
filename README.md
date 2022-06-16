@@ -1,7 +1,7 @@
 # spring-boot-prometheus
 
 <pre>
-wget https://github.com/Jaibw/spring-boot-prometheus/blob/master/deploy.sh
+wget https://raw.githubusercontent.com/Jaibw/spring-boot-prometheus/master/deploy.sh
 sh deploy.sh
 </pre>
 
